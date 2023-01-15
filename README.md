@@ -1,4 +1,4 @@
-# RealTimeiChatApp
+# Real-Time-iChatApp
 
 <a href="https://real-time-ichat.netlify.app/"><b>Live Demo</b></a>
 
