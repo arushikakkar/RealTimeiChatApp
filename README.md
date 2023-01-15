@@ -2,7 +2,7 @@
 
 <a href="https://real-time-ichat.netlify.app/"><b>Live Demo</b></a>
 
-Features
+<b>Features<b><br>
 📖 Uses NodeJs and Socket-IO<br>
 🙌 Developers friendly<br>
 🚀 Helps to connect with people in Real Time<br>
